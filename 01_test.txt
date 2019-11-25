@@ -1,1 +1,5 @@
-Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·BC³‚P
+Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
+
+/
+git add
+git commit
