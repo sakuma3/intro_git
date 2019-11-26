@@ -3,4 +3,3 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
 /
 git add
 git commit
-git rm
